@@ -40,5 +40,9 @@ plt.show()
 - Blah blah blah
 
 
+# Trending Skills
+
+## Results
+![Visualization of Trending Skills](3_Project/images/Trending_Skills.png)
 
 
