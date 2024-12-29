@@ -45,4 +45,17 @@ plt.show()
 ## Results
 ![Visualization of Trending Skills](3_Project/images/Trending_Skills.png)
 
+# Salary Analysis for Data Nerds
+
+## Results
+
+![Visualization of Median Salary](3_Project/images/Median_Salary.png)
+
+
+
+![Visualization of Top Salary Skills](3_Project/images/Top_Skill_Salary.png)
+
+
+
+![Visualization Scatter](3_Project/images/scatter.png)
 
